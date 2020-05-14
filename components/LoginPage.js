@@ -51,7 +51,7 @@ function LoginScreen({ navigation }) {
     <View style={styles.container}>
       <TextInput
         style={styles.inputField}
-        placeholder= "Username"
+        placeholder= "USERNAMEEEEE"
         placeholderTextColor= 'black'
         onChangeText={userNameInput}
         value={userText}
